@@ -13,5 +13,5 @@ import { CardComponent } from './card/card.component';
     imports: [RouterOutlet, HomeComponent, NavbarComponent, FooterComponent, CardComponent]
 })
 export class AppComponent {
-  title = 'Challenge_6';
+  title = 'Challenge6';
 }
